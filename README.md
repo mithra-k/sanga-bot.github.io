@@ -1,1 +1,1 @@
-http://sanga-bot.github.io/css/styles.css
+http://sanga-bot.github.io
