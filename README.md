@@ -1,1 +1,1 @@
-http://sanga-bot.github.io/Images/Ranjith-Ramachandran
+http://sanga-bot.github.io/Images/Ranjith-Ramachandran.jpg
