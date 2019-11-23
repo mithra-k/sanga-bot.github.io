@@ -1,1 +1,1 @@
-http://sanga-bot.github.io/Images/John_Kica.jpg
+http://sanga-bot.github.io/Images/Tom_Palenik.jpg
