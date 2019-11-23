@@ -1,1 +1,1 @@
-http://sanga-bot.github.io/Images/Ranjith_Ramachandran.jpg
+http://sanga-bot.github.io/Images/Naveen_Venkatapathi.jpg
