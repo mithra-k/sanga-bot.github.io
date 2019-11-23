@@ -1,1 +1,1 @@
-http://sanga-bot.github.io/Images/Naveen_Venkatapathi.jpg
+http://sanga-bot.github.io/Images/Andy_Rizzuto.jpg
